@@ -4,7 +4,7 @@ title: BlackTechX
 # import Blextra as module
 module:
   imports:
-  - path: github.com/BlackTechX011/BlackTechX011.github.io
+  - path: github.com/BlackTechX011/Blextra
 
 markup:
   # allow raw html
