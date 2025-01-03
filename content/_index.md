@@ -21,6 +21,8 @@ toc: false
 I'm a self-taught cybersecurity professional and developer, proficient in C, C++, JavaScript, Shell, Python, and always eager to learn more! I also love AI and cool tech innovations that push boundaries and inspire creativity.
 I’m deeply involved in the open-source community, where collaboration and knowledge-sharing are core values. I have gained so much from open-source and enjoy giving back to this vibrant community.
 
+<br>
+
 ## Skills
 {{< cards >}}
   {{< card title="AI & Machine Learning" icon="sparkles" tag="Expertise" tagType="info" >}}
@@ -30,9 +32,10 @@ I’m deeply involved in the open-source community, where collaboration and know
   {{< card title="Other Skills" icon="light-bulb" tag="Versatile" tagType="gray" >}}
 {{< /cards >}}
 
+<br>
+<br>
 
-
-# Explore
+## Explore
 
 {{< cards >}}
   {{< card link="projects" title="Projects" icon="folder" >}}
@@ -41,7 +44,7 @@ I’m deeply involved in the open-source community, where collaboration and know
 
 
 <br>
-
+<br>
 
 
 
